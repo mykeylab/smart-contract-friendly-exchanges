@@ -6,6 +6,7 @@ Exchange | URL
 Binance | https://www.binance.com/
 ZG | https://www.zg.com/
 Gate |  https://www.gate.io/
+Whaleex |  https://w.whaleex.com.cn/
 
 
 EOS 
@@ -14,6 +15,7 @@ Exchange | URL
 -------------  |-------------
 Binance |  https://www.binance.com/
 Huobi |  https://www.hbg.com/
+Whaleex |  https://w.whaleex.com.cn/
 ZG |  https://www.zg.com/
 Gate |  https://www.gate.io/
 Bitfinex |  https://www.bitfinex.com/
