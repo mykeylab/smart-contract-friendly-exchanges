@@ -1,3 +1,7 @@
+The following list is the exchanges that have been verified by MyKey lab to accept contract recharging: Users can choose these exchanges for recharging and trading (all withdrawals from the exchange to MYKEY account are not affected).
+
+If the exchange has supported contract recharge but not listed, please submit PR.
+
 
 ETH 
 
