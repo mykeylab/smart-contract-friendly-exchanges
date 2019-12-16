@@ -8,9 +8,11 @@ ETH
 Exchange | URL
 -------------  |-------------
 Binance | https://www.binance.com/
+OKEX | https://www.okex.com/
 ZG | https://www.zg.com/
 Gate |  https://www.gate.io/
 Whaleex |  https://w.whaleex.com.cn/
+
 
 
 EOS 
