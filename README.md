@@ -5,13 +5,14 @@ If the exchange has supported contract recharge but not listed, please submit PR
 
 ETH 
 
-Exchange | URL
--------------  |-------------
-Binance | https://www.binance.com/
-OKEX | https://www.okex.com/
-ZG | https://www.zg.com/
-Gate |  https://www.gate.io/
-Whaleex |  https://w.whaleex.com.cn/
+Exchange | URL | Note
+-------------  |------------- |------------
+Binance | https://www.binance.com/ |
+OKEX | https://www.okex.com/ |
+ZG | https://www.zg.com/ | 
+Gate |  https://www.gate.io/ |
+Whaleex |  https://w.whaleex.com.cn/ |
+Bitfinex |  https://www.bitfinex.com/ | ERC20 Only, ETH need a support ticket
 
 
 
