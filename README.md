@@ -33,4 +33,5 @@ AEX | https://www.aex88.com/
 Bigone |  http://big.one/
 Fcoin |  https://www.fcoin.pro/
 Bitforex |  https://www.bitforex.com/
+Hoo | https://hoo.com/
 
