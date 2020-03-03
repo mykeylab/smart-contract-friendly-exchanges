@@ -36,4 +36,5 @@ Fcoin |  https://www.fcoin.pro/
 Bitforex |  https://www.bitforex.com/
 Hoo | https://hoo.com/
 Hanbitco | https://hanbitco.com/
+Pionex｜https://www.pionex.com
 
