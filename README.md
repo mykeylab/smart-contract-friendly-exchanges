@@ -14,6 +14,7 @@ Gate |  https://www.gate.io/ |
 Whaleex |  https://w.whaleex.com.cn/ |
 Bitfinex |  https://www.bitfinex.com/ | ERC20 Only, ETH need a support ticket
 Hanbitco | https://hanbitco.com/ |
+Hitbtc | https://hitbtc.com/ |
 
 
 
@@ -37,4 +38,5 @@ Bitforex |  https://www.bitforex.com/
 Hoo | https://hoo.com/
 Hanbitco | https://hanbitco.com/
 Pionex | https://www.pionex.com
+Hitbtc | https://hitbtc.com/
 
