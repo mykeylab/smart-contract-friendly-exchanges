@@ -8,6 +8,7 @@ ETH
 Exchange | URL | Note
 -------------  |------------- |------------
 Binance | https://www.binance.com/ |
+Huobi |  https://www.hbg.com/ | ERC20 Only, ETH need a support ticket
 OKEX | https://www.okex.com/ |
 ZG | https://www.zg.com/ | 
 Gate |  https://www.gate.io/ |
