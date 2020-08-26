@@ -17,7 +17,7 @@ Bitfinex |  https://www.bitfinex.com/ | ERC20 Only, ETH need a support ticket
 Hanbitco | https://hanbitco.com/ |
 Hitbtc | https://hitbtc.com/ |
 Hydax | https://www.hydax.com/ | ERC20 Only, ETH need a support ticket
-Hoo | https://hoo.com/ ｜ ERC20 Only, ETH need a support ticket
+Hoo | https://hoo.com/ | ERC20 Only, ETH need a support ticket
 
 
 
